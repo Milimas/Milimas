@@ -23,6 +23,7 @@
 - 🌱 I’m currently learning 
   - JavaScript
   - Sass
+  - Dart / Flutter
 - 💞️ I’m looking to collaborate on 
   - Laravel
   - React
