@@ -28,7 +28,7 @@
   - Laravel
   - React
 - 📫 How to reach me 
-  - Email: 📧 [amine.beihaqi@hotmail.com](mailto:amine.beihaqi@hotmail.com)
+  - Email: 📧 [amine@beihaqi.com](mailto:amine@beihaqi.com)
   - Website: 🌐 [www.beihaqi.com](https://www.beihaqi.com/)
 
 <!---
