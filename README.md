@@ -29,7 +29,7 @@
   - React
 - 📫 How to reach me 
   - Email: 📧 [amine.beihaqi@hotmail.com](mailto:amine.beihaqi@hotmail.com)
-  - Website: 🌐 [www.aminebeihaqi.ga](https://www.aminebeihaqi.ga/)
+  - Website: 🌐 [www.beihaqi.com](https://www.beihaqi.com/)
 
 <!---
 Milimas/Milimas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
