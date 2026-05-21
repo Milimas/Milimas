@@ -1,85 +1,101 @@
 <!--
   github.com/Milimas — profile README
-
-  Drop into a public repo named "Milimas" (same as your username) so it
-  renders on your profile.
-
-  This README intentionally avoids the "fancy template" look (rainbow
-  banners, visitor counters, trophy walls, stats cards). Senior engineers
-  and recruiters mostly skim — the goal is: who, what, what they've built,
-  how to reach them. Everything else is noise.
+  Companion to beihaqi.com — same terminal aesthetic, same voice.
+  Drop into a public repo named "Milimas" along with banner.svg.
 -->
 
-# Amine Beihaqi
+<p align="center">
+  <a href="https://beihaqi.com">
+    <img src="./banner.svg" alt="amine@beihaqi:~$ whoami — Amine Beihaqi, full-stack developer" />
+  </a>
+</p>
 
-Software engineer in Casablanca. I make small, sharp software where the data stays mine.
-
-I trained at [**1337 Coding School**](https://1337.ma) — the Moroccan campus of the 42 Network — which left me with a long memory for C: shells, threads, raytracers, a libft. These days I mostly write **TypeScript** and **Node.js**, professionally and on my own time.
-
-I care about data ownership, open-source tooling, and the kind of software you can still read three years from now.
-
-> 🌐 &nbsp; [**beihaqi.com**](https://beihaqi.com) &nbsp;·&nbsp; 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/aminebeihaqi/) &nbsp;·&nbsp; 🐙 &nbsp; [GitHub](https://github.com/Milimas)
-
----
-
-### Currently
-
-- Backend work in TypeScript / Node.js — currently thinking carefully about a multi-layer cache (SWR + HTTP caching + Redis) and which layers actually earn their complexity
-- Building a personal **operating system for life** — tasks, money, lending tracker — deliberately without LLM help, as a craft exercise
-- Reading toward the mechanics of attention and habit: flow theory, calendar heatmaps, atomic habits — the parts that survive contact with practice
-
-### Stack
-
-**Strong** &nbsp; TypeScript · Node.js · C · RxJS
-**Comfortable** &nbsp; React · Redis · Postgres · pnpm · Cloudflare
-**Daily** &nbsp; Neovim · Linux · Git · tmux
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,c,react,redis,postgres,linux,neovim,git&theme=dark" alt="stack" />
+<p align="center">
+  <a href="https://beihaqi.com"><img src="https://img.shields.io/badge/-beihaqi.com-22c55e?style=flat-square&logo=safari&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" alt="website" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aminebeihaqi/"><img src="https://img.shields.io/badge/-linkedin-22c55e?style=flat-square&logo=linkedin&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" alt="linkedin" /></a>
+  &nbsp;
+  <a href="https://github.com/Milimas"><img src="https://img.shields.io/badge/-github-22c55e?style=flat-square&logo=github&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" alt="github" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Milimas&label=visits&color=22c55e&style=flat-square&labelColor=0a0e0a" alt="visits" />
 </p>
 
 ---
 
-### Selected work
+### `01.` &nbsp; about &nbsp;&nbsp; <sub>// who i am</sub>
 
-| Project | What it is |
+hey — i'm a passionate full-stack developer enrolled at [**1337 coding school**](https://1337.ma), morocco. my work spans the full stack: from low-level C/C++ systems programming to modern web applications, workflow automation, and AI integration.
+
+i thrive on turning complex problems into clean, functional solutions — whether that's implementing an HTTP server from scratch, building a real-time multiplayer game, or crafting a performant web interface. always exploring what's next: VR/AR, graphics programming, and computer vision.
+
+if you're looking for someone who goes deep on the technical details and cares about the craft, [**let's talk**](https://beihaqi.com).
+
+---
+
+### `02.` &nbsp; stack &nbsp;&nbsp; <sub>// what i build with</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/-C%20%2F%20C%2B%2B-22c55e?style=flat-square&logo=c&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-TypeScript-22c55e?style=flat-square&logo=typescript&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-Next.js-22c55e?style=flat-square&logo=nextdotjs&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-React-22c55e?style=flat-square&logo=react&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-Node.js-22c55e?style=flat-square&logo=nodedotjs&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-22c55e?style=flat-square&logo=postgresql&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Unity%20%2F%20C%23-22c55e?style=flat-square&logo=unity&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-Blender-22c55e?style=flat-square&logo=blender&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-Three.js-22c55e?style=flat-square&logo=threedotjs&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-Linux-22c55e?style=flat-square&logo=linux&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-LangChain-22c55e?style=flat-square&logo=langchain&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+  <img src="https://img.shields.io/badge/-Neovim-22c55e?style=flat-square&logo=neovim&logoColor=22c55e&labelColor=0a0e0a&color=0a0e0a" />
+</p>
+
+---
+
+### `03.` &nbsp; work &nbsp;&nbsp; <sub>// things i've built</sub>
+
+#### `/* featured */`
+
+**[blockblock](https://github.com/Milimas/blockblock)** &nbsp; — &nbsp; ethereum data analytics platform
+
+> A scalable monorepo for blockchain data analytics and monitoring. Geth and Prysm as full nodes, Kafka + Zookeeper for stream processing, TimescaleDB for time-series storage, Adminer for ops.
+>
+> `Ethereum` · `Geth` · `Prysm` · `Kafka` · `TimescaleDB` · `TypeScript`
+
+**[ft_transcendence](https://github.com/Milimas/ft_transcendence)** &nbsp; — &nbsp; real-time multiplayer pong, reimagined
+
+> A web-based gaming platform reimagining classic Pong with a modern, feature-rich stack: 3D rendering with Three.js, real-time multiplayer over WebSockets, tournament system, in-game chat.
+>
+> `Django` · `PostgreSQL` · `Three.js` · `WebSocket` · `Bootstrap`
+
+#### `/* 1337 staples — low-level C work */`
+
+| | |
 |---|---|
-| [**miniRT**](https://github.com/Milimas/miniRT) | A raytracer in C — Phong shading, scene parsing, sphere/plane/cylinder intersections, built from scratch |
+| [**miniRT**](https://github.com/Milimas/miniRT) | A raytracer in C — Phong shading, scene parsing, primitive intersections from scratch |
 | [**minishell**](https://github.com/Milimas/minishell) | A Unix shell — pipes, redirections, builtins, env expansion, signal handling |
 | [**philosophers**](https://github.com/Milimas/philosophers) | The dining philosophers — threads, mutexes, deadlock avoidance |
-| [**fract-ol**](https://github.com/Milimas/fract-ol) | Fractal renderer — Mandelbrot, Julia, smooth coloring, zoom |
-| [**libft**](https://github.com/Milimas/libft) | A C standard-library reimplementation — strings, memory, linked lists, `ft_printf` |
-| [**blockblock**](https://github.com/Milimas/blockblock) | A TypeScript side-project |
+| [**fract-ol**](https://github.com/Milimas/fract-ol) | A fractal renderer — Mandelbrot, Julia, smooth coloring, zoom |
+| [**libft**](https://github.com/Milimas/libft) | A C standard-library reimplementation — strings, memory, lists, `ft_printf` |
 
-More in the [repos tab](https://github.com/Milimas?tab=repositories).
-
----
-
-### Contribution graph
-
-<!--
-  This is rendered by a GitHub Action that runs daily, generates an SVG
-  snake eating your contribution dots, and commits it to the `output`
-  branch of this repo. It's the one piece of "dynamic" content that
-  doesn't rely on a flaky external service.
-
-  Setup (one-time, ~2 minutes):
-    1. Create file:  .github/workflows/snake.yml  in THIS repo
-       with the contents from:
-       https://github.com/Platane/snk#-as-a-github-action
-    2. Push. The action will run on a schedule and on push to main.
-    3. The image URLs below will start working within a few minutes.
-
-  If you skip the setup, the images below will be broken — just delete
-  this section.
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milimas/Milimas/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Milimas/Milimas/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Milimas/Milimas/output/github-contribution-grid-snake.svg" />
-</picture>
+<sub>more in the <a href="https://github.com/Milimas?tab=repositories">repos tab</a> &nbsp;·&nbsp; project case studies on <a href="https://beihaqi.com">beihaqi.com</a></sub>
 
 ---
 
-<sub>If you're hiring or want to build something, the fastest way to reach me is through <a href="https://beihaqi.com">beihaqi.com</a>.</sub>
+### `04.` &nbsp; reach &nbsp;&nbsp; <sub>// say hi</sub>
+
+```bash
+$ contact --amine
+> website  : https://beihaqi.com
+> linkedin : in/aminebeihaqi
+> github   : @Milimas
+> location : casablanca, morocco
+> status   : open to interesting problems
+```
+
+---
+
+<p align="center">
+  <sub><code>// the compiler is honest. the cache is not.</code></sub>
+</p>
