@@ -1,4 +1,3 @@
-
 <!--
   ╔══════════════════════════════════════════════════════════╗
   ║   github.com/Milimas — profile README                    ║
@@ -86,16 +85,16 @@ currently:
 <div align="center">
 
 <a href="https://github.com/Milimas">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Milimas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e2327&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Milimas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e2327&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" alt="stats" />
 </a>
 <a href="https://github.com/Milimas">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milimas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e2327&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milimas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e2327&title_color=8B5CF6&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="top languages" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Milimas">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Milimas&theme=tokyonight&hide_border=true&background=1e2327&stroke=1e2327&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Milimas&theme=tokyonight&hide_border=true&background=1e2327&stroke=1e2327&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak" />
 </a>
 
 </div>
