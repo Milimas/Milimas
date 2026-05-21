@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="bannerTitle">
+  <title id="bannerTitle">Amine Beihaqi — full-stack developer</title>
+
+  <defs>
+    <!-- subtle dot grid background, matches the homepage backdrop -->
+    <pattern id="dotgrid" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#22c55e" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="340" fill="#0a0e0a"/>
+  <rect width="1200" height="340" fill="url(#dotgrid)"/>
+
+  <!-- ascii flourishes (echo of the site's ~ and # decorations) -->
+  <g font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace"
+     font-size="14" fill="#22c55e" fill-opacity="0.35">
+    <text x="70" y="50">~ ~ ~ ~ ~</text>
+    <text x="70" y="295">~ ~ ~ ~</text>
+    <text x="1030" y="50"># # # # #</text>
+    <text x="1050" y="295"># # # #</text>
+  </g>
+
+  <!-- left accent bar, like the site's nav indicator -->
+  <rect x="0" y="120" width="4" height="100" fill="#22c55e"/>
+
+  <!-- terminal prompt -->
+  <text x="600" y="100" text-anchor="middle"
+        font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace"
+        font-size="18" fill="#22c55e">amine@beihaqi:~$ whoami</text>
+
+  <!-- big title: "Amine" white, "Beihaqi." green -->
+  <text x="600" y="200" text-anchor="middle"
+        font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace"
+        font-size="84" font-weight="700" letter-spacing="-1">
+    <tspan fill="#f1f5f9">Amine </tspan><tspan fill="#22c55e">Beihaqi.</tspan>
+  </text>
+
+  <!-- role pill: bordered, monospace, matches the site's component style -->
+  <g transform="translate(420, 235)">
+    <rect width="360" height="38" rx="4" fill="none" stroke="#22c55e" stroke-width="1.5"/>
+    <text x="180" y="25" text-anchor="middle"
+          font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace"
+          font-size="16">
+      <tspan fill="#22c55e">role:</tspan><tspan fill="#f1f5f9"> full-stack developer</tspan>
+    </text>
+  </g>
+
+  <!-- scroll hint, echoing the site's ~scroll~ marker -->
+  <text x="600" y="315" text-anchor="middle"
+        font-family="ui-monospace, 'JetBrains Mono', monospace"
+        font-size="12" fill="#22c55e" fill-opacity="0.5">~ scroll ~</text>
+</svg>
